@@ -1,0 +1,28 @@
+id;produto;saldo_atual;estoque_minimo;qtd_comprar
+10;Cabo de Rede Cat6;15;50;35
+12;Switch 8 Portas;3;10;7
+14;Patch Panel 24p;1;5;4
+17;Switch 24 Portas;2;6;4
+18;Access Point Ubiquiti;0;4;4
+19;Rack 12U;1;2;1
+21;Fonte PoE 48V;7;15;8
+22;SFP 1G Multimodo;18;20;2
+23;SFP+ 10G;4;10;6
+25;DIO 24 Fibras;2;3;1
+29;Velcro Organizador (rolo 5m);8;20;12
+30;Tomada RJ45 de Parede;35;50;15
+31;Switch PoE 16 Portas;6;8;2
+32;Roteador Mikrotik hEX;9;10;1
+34;Servidor Dell R740;0;1;1
+35;Nobreak 1500VA;4;5;1
+38;HD SSD 1TB;6;10;4
+40;Memória RAM 32GB DDR4;3;8;5
+45;"Monitor 27"" QHD";2;3;1
+48;Webcam Full HD;6;10;4
+49;Headset com Microfone;15;20;5
+50;Notebook i5 16GB;3;4;1
+51;Notebook i7 32GB;1;2;1
+53;Hub USB 4 Portas;27;30;3
+55;Carregador Notebook 65W;5;10;5
+56;Bateria Notebook Dell;2;3;1
+58;Toner Preto Laser;12;15;3

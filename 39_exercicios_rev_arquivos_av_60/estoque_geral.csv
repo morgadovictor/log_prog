@@ -1,0 +1,57 @@
+id;produto;saldo_atual;estoque_minimo
+10;Cabo de Rede Cat6;15;50
+11;Conector RJ45;200;100
+12;Switch 8 Portas;3;10
+13;Roteador Wi-Fi;8;8
+14;Patch Panel 24p;1;5
+15;Cabo de Rede Cat5e;120;80
+16;Keystone Jack;45;30
+17;Switch 24 Portas;2;6
+18;Access Point Ubiquiti;0;4
+19;Rack 12U;1;2
+20;Organizador de Cabos;60;40
+21;Fonte PoE 48V;7;15
+22;SFP 1G Multimodo;18;20
+23;SFP+ 10G;4;10
+24;Fibra Óptica LC-LC 3m;25;25
+25;DIO 24 Fibras;2;3
+26;Testador de Cabo;3;2
+27;Alicate de Crimpar;12;5
+28;Abraçadeira Nylon (pacote 100);150;100
+29;Velcro Organizador (rolo 5m);8;20
+30;Tomada RJ45 de Parede;35;50
+31;Switch PoE 16 Portas;6;8
+32;Roteador Mikrotik hEX;9;10
+33;Firewall Fortigate 60F;1;1
+34;Servidor Dell R740;0;1
+35;Nobreak 1500VA;4;5
+36;Nobreak 3000VA;2;2
+37;HD SSD 480GB;22;15
+38;HD SSD 1TB;6;10
+39;Memória RAM 16GB DDR4;14;12
+40;Memória RAM 32GB DDR4;3;8
+41;Fonte Redundante 750W;5;4
+42;Cabo HDMI 2m;30;25
+43;Cabo DisplayPort 3m;11;10
+44;Monitor 24" Full HD;7;6
+45;Monitor 27" QHD;2;3
+46;Teclado USB ABNT2;48;40
+47;Mouse Óptico USB;52;45
+48;Webcam Full HD;6;10
+49;Headset com Microfone;15;20
+50;Notebook i5 16GB;3;4
+51;Notebook i7 32GB;1;2
+52;Docking Station USB-C;8;6
+53;Hub USB 4 Portas;27;30
+54;Adaptador USB-C para HDMI;40;35
+55;Carregador Notebook 65W;5;10
+56;Bateria Notebook Dell;2;3
+57;Impressora Laser Mono;3;2
+58;Toner Preto Laser;12;15
+59;Papel A4 (resma 500);80;60
+60;Grampeador de Mesa;18;15
+61;Perfurador de Papel;7;5
+62;Pasta Suspensa (pacote 10);25;20
+63;Caneta Esferográfica Azul (cx 50);30;25
+64;Quadro Branco 120x90;2;2
+65;Marcador para Quadro (cx 12);14;10

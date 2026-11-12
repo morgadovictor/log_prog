@@ -1,0 +1,28 @@
+   joao.silva@exemplo.com   
+MARIA.SANTOS@TESTE.COM
+
+     pedro_oliveira@dominio.org
+  ANA.PEREIRA@EMPRESA.COM.BR  
+
+carlos@site.net
+   lucas.mendes@EMPRESA.COM   
+		
+fernanda.costa@exemplo.com
+  ROBERTO@TESTE.ORG  
+julia_almeida@dominio.net
+
+		
+marcos.vinicius@exemplo.com
+   patricia.ferreira@EMPRESA.COM.BR   
+gustavo_lima@site.org
+   CAMILA.ROCHA@TESTE.COM
+
+sem_arroba_aqui
+   outro_invalido_sem_arroba   
+beatriz.nunes@EXEMPLO.COM
+  ricardo.alves@DOMINIO.ORG  
+
+thiago.souza@EMPRESA.COM.BR
+aline@teste.net
+   FABIO.MARTINS@EXEMPLO.COM   
+juliana.ribeiro@SITE.ORG
